@@ -1,0 +1,16 @@
+﻿  project2.cpp
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(86,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(114,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(134,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(160,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(171,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(188,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(197,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(222,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(250,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(254,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(274,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(278,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(303,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomnompineapples\source\repos\imageProjectFINAL\project2.cpp(343,32): warning C4018: '<': signed/unsigned mismatch
+  imageProjectFINAL.vcxproj -> C:\Users\nomnompineapples\source\repos\imageProjectFINAL\Debug\imageProjectFINAL.exe
